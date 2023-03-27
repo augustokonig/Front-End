@@ -1,0 +1,56 @@
+/* Add your custom CSS here */
+
+.section-selector-1 { background-color: var(--gray-400) }
+
+
+
+.theme-light.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] { border-color: var(--gray-400) }
+.section-selector-1 div[class^='flex-cols-'].cols-shadows div[class^='col-'] { box-shadow: rgba(176,190,197,0.4) 4px 10px 16px 0 }
+.theme-light.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] { border-color: var(--slate-300) }
+.theme-light.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] { border-color: var(--slate-200) }
+.theme-light.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] { border-color: var(--slate-100) }
+.theme-light.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] { border-color: var(--slate-050) }
+.theme-light.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] { border-color: var(--slate-100) }
+.theme-light.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] { border-color: var(--slate-200) }
+.theme-light.section-selector-1 div[class^='flex-cols-'] div[class^='col-'] { border-color: var(--slate-300) }
+
+nav.theme-light a#btn-cta:link,
+nav.theme-light a#btn-cta:visited { color: var(--black-000) }
+nav.theme-light a#btn-cta:focus,
+nav.theme-light a#btn-cta:hover,
+nav.theme-light a#btn-cta:active { color: var(--white-000) }
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle { background-color: var(--red-900) }
+
+header.theme-dark { background-color: var(--trend-800) }
+header.theme-dark h1 span.highlight { color: var(--sky-400) }
+header.theme-dark h2 { color: var(--white-000) }
+
+
+/* Add your custom CSS here */
+
+.section-selector-1p { background-color: var(--slate-050) }
+.section-selector-1 { background-color: var(--slate-200) }
+.section-selector-1 h2 { color: var(--trend-900) }
+.section-selector-1 .col-2.col-text p { color: var(--trend-800) }
+.section-selector-1 .cols-2-half .theme-dark { color: var(--trend-800) }
+
+nav.theme-light a#btn-cta:link,
+nav.theme-light a#btn-cta:visited { color: var(--black-000) }
+nav.theme-light a#btn-cta:focus,
+nav.theme-light a#btn-cta:hover,
+nav.theme-light a#btn-cta:active { color: var(--white-000) }
+nav.theme-light.menu-sticky.menu-on-scroll .nav-toggle { background-color: var(--red-900) }
+
+#email {
+font-size: larger;
+background-color: white;
+
+}
+
+
+
+
+
+
+
+
